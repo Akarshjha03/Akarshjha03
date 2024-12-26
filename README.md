@@ -123,11 +123,6 @@
 <!--- Snake Animation -->
 ![Snake animation](https://github.com/Akarshjha03/Akarshjha03/blob/output/github-snake-dark.svg)
 
-<h2 align="center"> 🐙🐈‍⬛ Github Unwrapped 2024 📦🎉</h2>
-<div align="center" style="max-width: 600px; margin: auto;">
-<video src="./unwrapped-Akarshjha03.mp4" controls="controls" style="max-width: 100%;">
-
-
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="full">
 
 
