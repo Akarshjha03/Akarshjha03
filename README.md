@@ -124,7 +124,7 @@
 
 
 
-<h2 align="center"> 🐍Devouring Code, One Contribution at a Time! </h2>
+## 🐍Devouring Code, One Contribution at a Time!
 <!--- Snake Animation -->
 ![Snake animation](https://github.com/Akarshjha03/Akarshjha03/blob/output/github-snake-dark.svg)
 
