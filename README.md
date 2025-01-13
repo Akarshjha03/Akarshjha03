@@ -117,6 +117,9 @@
 
 <h2 align="center"> ⚡ Github Certified Achievements 🎖️</h2>
 <div align="center" style="max-width: 600px; margin: auto;">
+    <img src="Github_Badge.png" alt="GitHub Badge" style="display: block; margin: 0 auto;" />
+</div>
+
 
 
 ## 🐍Devouring Code, One Contribution at a Time!
