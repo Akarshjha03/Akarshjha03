@@ -115,7 +115,7 @@
   </tr>
 </table>
 
-<h2 align="center"> ⚡ Open Source Achievements 🎖️</h2>
+<h2 align="center"> ⚡ Github Certified Achievements 🎖️</h2>
 <div align="center" style="max-width: 600px; margin: auto;">
 
 
