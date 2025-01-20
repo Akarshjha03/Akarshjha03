@@ -89,8 +89,8 @@
 
 ##  📊Profile Stats
 <p align="center">
-  <a href="https://github.com/Akarshjha03">
-    <img src="https://streak-stats.demolab.com?user=Akarshjha03&theme=chartreuse-dark&border=00FF00&background=1A1B27" alt="Akarsh's GitHub streak"/>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=Akarshjha03&theme=chartreuse-dark" alt="Akarsh's GitHub streak"/>
   </a>
 </p>
 
