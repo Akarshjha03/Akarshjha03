@@ -39,7 +39,7 @@
 
 ##  💫Quick Stats
 
-- 💻 **Tech Stack**: Portfolio includes projects based on MERN stack, React-Native App, Data Science, IOT, and Blockchain.
+- 💻 **Tech Stack**: Portfolio includes projects based on MERN stack, Native Android App, Data Science, IOT, and Blockchain.
 - 🎨 **UI/UX Enthusiast**: Passionate about Product- Driven design with expertise in Figma integrated with Framer, Procreate.
 - 📈 Tech Exploration: Diving into trading technology, stock market strategies, and high-frequency trading innovations.
 - 🎓 **Academic Interests**: Delving into operating systems, microprocessors, system design, and software engineering.
