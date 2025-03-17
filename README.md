@@ -20,6 +20,11 @@
   </tr>
 </table>
 
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/akarshjha03?ext=activity" alt="LeetCode Stats">
+</p>
+
+
 ## 🌍Connect 
 
 <div align="center">
@@ -116,14 +121,11 @@
   </tr>
 </table>
 
-<h2 align="center"> ⚡ Github Certified Achievements 🎖️</h2>
+<h2 align="center"> ⚡ Certified Achievements 🎖️</h2>
 <div align="center" style="max-width: 600px; margin: auto;">
     <img src="Github_Badge1.png" alt="GitHub Badge" 
          style="display: block; margin: 0 auto; width: 200px; height: auto;" />
 </div>
-
-
-
 
 ## 🐍Devouring Code, One Contribution at a Time!
 <!--- Snake Animation -->
