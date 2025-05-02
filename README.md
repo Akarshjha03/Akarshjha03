@@ -21,7 +21,7 @@
 </table>
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/akarshjha03?ext=heatmap alt="LeetCode Stats">
+  <img src="https://leetcard.jacoblin.cool/Akarshjha03?ext=activity" alt="LeetCode Stats">
 </p>
 
 ## 🌍Connect 
