@@ -12,7 +12,7 @@
 <table style="border-collapse: collapse;">
   <tr>
     <td style="border: none;">
-      <p> I'm Akarsh, a passionate Computer Science undergrad specializing in full-stack development focusing on MERN, Native Android development using Kotlin, and competitive coding with Java. I enjoy exploring the latest in UI/UX design, AI automation, Machine Learning, and Data Analytics, HFT. My projects reflect my commitment to building impactful, user-centric solutions. I’m always learning and open to new challenges. Let’s collaborate and innovate together!</p>
+      <p> I'm Akarsh, a passionate Computer Science undergrad specializing in Native Android development using Kotlin, and competitive coding with Java. I enjoy exploring the latest in UI/UX design, AI automation, Machine Learning, and Data Analytics, HFT. My projects reflect my commitment to building impactful, user-centric solutions. I’m always learning and open to new challenges. Let’s collaborate and innovate together!</p>
     </td>
     <td style="border: none;">
       <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" alt="Octocat">
@@ -45,7 +45,7 @@
 
 - 💻 **Tech Stack**: Portfolio includes projects based on MERN stack, Native Android App, Data Science, IOT, and Blockchain.
 - 🎨 **UI/UX Enthusiast**: Passionate about Product- Driven design with expertise in Figma integrated with Framer, Procreate.
-- 📈 Tech Exploration: Diving into trading technology, stock market strategies, and high-frequency trading innovations.
+- 📈 **Tech Exploration**: Diving into trading technology, stock market strategies, and high-frequency trading innovations.
 - 🎓 **Academic Interests**: Delving into operating systems, microprocessors, system design, and software engineering.
 - 📚 **Beyond Coding**: Avid reader, calligraphy artist, chess lover, and active participant in hackathons & weekly challenges.
 - 📊 **Projects Completed**: Successfully completed 15+ projects & collaborated with _ companies.
