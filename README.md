@@ -12,7 +12,7 @@
 <table style="border-collapse: collapse;">
   <tr>
     <td style="border: none;">
-      <p> I'm Akarsh, a passionate Computer Science undergrad specializing in Native Android development using Kotlin, and competitive coding with Java. I enjoy exploring the latest in UI/UX design, AI automation, Machine Learning, and Data Analytics, HFT. My projects reflect my commitment to building impactful, user-centric solutions. I’m always learning and open to new challenges. Let’s collaborate and innovate together!</p>
+      <p> I'm Akarsh, a passionate Computer Science undergrad specializing in Native Android development using Kotlin and Firebase, and competitive coding with Java. I enjoy exploring the latest in UI/UX design, AI automation, Machine Learning, and Data Analytics, HFT. My projects reflect my commitment to building impactful, user-centric solutions. I’m always learning and open to new challenges. Let’s collaborate and innovate together!</p>
     </td>
     <td style="border: none;">
       <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" alt="Octocat">
