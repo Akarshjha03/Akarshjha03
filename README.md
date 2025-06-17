@@ -43,13 +43,11 @@
 
 ##  💫Quick Stats
 
-- 💻 **Tech Stack**: Portfolio includes projects based on MERN stack, Native Android App, Data Science, IOT, and Blockchain.
+- 💻 **Tech Stack**: Portfolio includes projects based on, Native Android App, Backend Engineering and IOT.
 - 🎨 **UI/UX Enthusiast**: Passionate about Product- Driven design with expertise in Figma integrated with Framer, Procreate.
 - 📈 **Tech Exploration**: Diving into trading technology, stock market strategies, and high-frequency trading innovations.
-- 🎓 **Academic Interests**: Delving into operating systems, microprocessors, system design, and software engineering.
+- 🎓 **Academic Interests**: Delving into operating systems, microprocessors, system design, and algorithm optimization.
 - 📚 **Beyond Coding**: Avid reader, calligraphy artist, chess lover, and active participant in hackathons & weekly challenges.
-- 📊 **Projects Completed**: Successfully completed 15+ projects & collaborated with _ companies.
-- ✍️ **Blogs Written**: Authored 5+ technical blogs, sharing insights on programming, design, and algorithm optimization.
 
 <div align="center">
   <a href="https://www.codechef.com/users/your_username" target="_blank">
