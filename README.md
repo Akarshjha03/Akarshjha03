@@ -44,7 +44,7 @@
 ##  💫Quick Stats
 
 - 💻 **Tech Stack**: Portfolio includes projects based on, Native Android App, Backend Engineering and IOT.
-- 🎨 **UI/UX Enthusiast**: Passionate about Product- Driven design with expertise in Figma integrated with Framer, Procreate.
+- 🎨 **UI/UX Enthusiast**: Passionate about Product- Driven design with expertise in Figma & Procreate.
 - 📈 **Tech Exploration**: Diving into trading technology, stock market strategies, and high-frequency trading innovations.
 - 🎓 **Academic Interests**: Delving into operating systems, microprocessors, system design, and algorithm optimization.
 - 📚 **Beyond Coding**: Avid reader, calligraphy artist, chess lover, and active participant in hackathons & weekly challenges.
