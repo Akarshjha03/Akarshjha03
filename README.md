@@ -128,9 +128,13 @@
 <!--- Snake Animation -->
 ![Snake animation](https://github.com/Akarshjha03/Akarshjha03/blob/output/github-snake-dark.svg)
 
-> ✍️ **Dev Quote**
->
-> *“When you spend 10,000 hours mastering a particular craft, you become an expert at it.”*
+<!-- Dev Quote -->
+<h3 align="center">✍️ Dev Quote</h3>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=When%20you%20spend%2010%2C000%20hours%20mastering%20your%20craft%2C%20you%20don%E2%80%99t%20just%20improve%20%E2%80%94%20you%20become%20the%20code." alt="Dev Quote"/>
+</p>
+
+
 
 
 
