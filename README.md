@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-    <img src="./AndroidREADME.png" align="center" style="width:100%;" />
+    <img src="./ML_Banner.png" align="center" style="width:100%;" />
 </div>
 <br>
 
