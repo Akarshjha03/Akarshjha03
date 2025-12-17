@@ -46,7 +46,7 @@
 
 ##  💫Quick Stats
 
-- 💻 **Tech Stack**: Portfolio includes projects based on, Native Android App, Backend Engineering and IOT.
+- 💻 **Tech Stack**: Portfolio includes projects based on Mobile Apps(Flutter/IOS), Backend(Fastapi).
 - 🎨 **UI/UX Enthusiast**: Passionate about Product- Driven design with expertise in Figma & Procreate.
 - 📈 **Tech Exploration**: Diving into trading technology, stock market strategies, and high-frequency trading innovations.
 - 🎓 **Academic Interests**: Delving into operating systems, microprocessors, system design, and algorithm optimization.
