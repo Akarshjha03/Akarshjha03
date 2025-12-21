@@ -133,6 +133,11 @@
 <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/GitHub%20Foundation.png" width="200px" height="200px" />
 </div>
 
+<div align="center">
+    <img src="./masterpiece.png" align="center" style="width:100%;" />
+</div>
+<br>
+
 ## 🐍Devouring Code, One Contribution at a Time!
 <!--- Snake Animation -->
 ![Snake animation](https://github.com/Akarshjha03/Akarshjha03/blob/output/github-snake-dark.svg)
