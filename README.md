@@ -26,32 +26,62 @@
 
 ## 🌍Connect 
 
+<!-- ===== Social & Developer Profiles Icons ===== -->
 <div align="center">
+
+  <!-- LinkedIn Profile -->
   <a href="https://www.linkedin.com/in/akarshjha03/">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
   </a>
+
+  <!-- Stack Overflow Profile -->
   <a href="https://stackoverflow.com/users/22983041/akarsh-jha">
     <img src="https://skillicons.dev/icons?i=stackoverflow" alt="Stack Overflow"/>
   </a>
+
+  <!-- Email Contact (Proton Mail) -->
   <a href="mailto:akarshjha23@proton.me">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail" alt="Gmail"/>
   </a>
+
+  <!-- DEV.to Blog Profile -->
   <a href="https://dev.to/akarshjha10">
     <img src="https://skillicons.dev/icons?i=devto" alt="DevTo"/>
   </a> 
+
 </div>
 
 
+<!-- ===== Peerlist Profile Badge ===== -->
 <p align="center">
   <a href="https://peerlist.io/akarshjha03">
-    <img src="https://github-readme-badge.peerlist.io/api/akarshjha03?style=for-the-badge" alt="Peerlist Badge">
+    <img 
+      src="https://github-readme-badge.peerlist.io/api/akarshjha03?style=for-the-badge" 
+      alt="Peerlist Badge"
+    >
   </a>
 </p>
 
 
+<!-- ===== Product Hunt Featured Project Badge ===== -->
 <div align="center">
-<a href="https://www.producthunt.com/products/proximity-lock-system?embed=true&utm_source=badge-top-post-badge&utm_medium=badge&utm_source=badge-proximity&#0045;lock&#0045;system&#0045;2&#0045;0" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/top-post-badge.svg?post_id=1038161&theme=dark&period=daily&t=1763284440852" alt="Proximity&#0032;Lock&#0032;System&#0032;2&#0046;0 - Never&#0032;worry&#0032;about&#0032;leaving&#0032;your&#0032;computer&#0032;unlocked&#0032;again&#0046; | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
+
+  <!-- Product Hunt Top Post Badge for Proximity Lock System 2.0 -->
+  <a 
+    href="https://www.producthunt.com/products/proximity-lock-system?embed=true&utm_source=badge-top-post-badge&utm_medium=badge&utm_source=badge-proximity&#0045;lock&#0045;system&#0045;2&#0045;0" 
+    target="_blank"
+  >
+    <img 
+      src="https://api.producthunt.com/widgets/embed-image/v1/top-post-badge.svg?post_id=1038161&theme=dark&period=daily&t=1763284440852" 
+      alt="Proximity Lock System 2.0 | Product Hunt"
+      style="width: 250px; height: 54px;"
+      width="250"
+      height="54"
+    />
+  </a>
+
 </div>
+
 
 ##  💫Quick Stats
 
