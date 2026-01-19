@@ -159,23 +159,6 @@
 
 ---
 
-<h1 align="center"> 🌟 Featured Work </h1>
-
-### 🔐 Proximity Lock System
-A security-first open-source tool that automatically locks your desktop when your phone moves out of Bluetooth range.  
-Built with a local-only design, minimal permissions, and predictable behavior.
-
-**Recognition**
-- Featured by **:Tom Dörr** on X  
-  🔗 https://x.com/tom_doerr/status/2012322364344664373
-- 🏆 #4 Product of the Day on Product Hunt
-<!-- ===== Product Hunt Featured Project Badge ===== -->
-<a href="https://www.producthunt.com/products/proximity-lock-system?embed=true&utm_source=badge-top-post-badge&utm_medium=badge&utm_source=badge-proximity&#0045;lock&#0045;system&#0045;2&#0045;0" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/top-post-badge.svg?post_id=1038161&theme=dark&period=daily&t=1763284440852" alt="Proximity&#0032;Lock&#0032;System&#0032;2&#0046;0 - Never&#0032;worry&#0032;about&#0032;leaving&#0032;your&#0032;computer&#0032;unlocked&#0032;again&#0046; | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
-
-🔗 Repository: https://github.com/Akarshjha03/ProximityLockSystem
-
----
-
 ## 🐍Devouring Code, One Contribution at a Time!
 <!--- Snake Animation -->
 ![Snake animation](https://github.com/Akarshjha03/Akarshjha03/blob/output/github-snake-dark.svg)
