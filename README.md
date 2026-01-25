@@ -153,7 +153,7 @@
 </div>
 
 <div align="center">
-    <img src="./masterpiece.png" align="center" style="width:100%;" />
+    <img src="./Peerlist-builder.png" align="center" style="width:70%;" />
 </div>
 <br>
 
