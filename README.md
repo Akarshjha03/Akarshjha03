@@ -25,7 +25,6 @@
 </p>
 
 ## 🌍Connect 
-
 <!-- ===== Social & Developer Profiles Icons ===== -->
 <div align="center">
 
